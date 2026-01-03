@@ -1,0 +1,112 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+#                              DEPENDENCIES
+# ═══════════════════════════════════════════════════════════════════════════════
+node_modules/
+.pnp/
+.pnp.js
+.yarn/
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#                              BUILD OUTPUT
+# ═══════════════════════════════════════════════════════════════════════════════
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#                         ENVIRONMENT & SECRETS (CRITICAL)
+# ═══════════════════════════════════════════════════════════════════════════════
+.env
+.env.*
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+*.pem
+*.key
+*.secret
+secrets/
+.secrets/
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#                              SYSTEM FILES
+# ═══════════════════════════════════════════════════════════════════════════════
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#                         AI ASSISTANTS & TOOLS
+# ═══════════════════════════════════════════════════════════════════════════════
+CONTEXT.md
+context.md
+prompts.md
+prompts/
+.prompts/
+.cursorrules
+.cursorignore
+.cursor/
+.windsurfrules
+.windsurf/
+.aider*
+.continue/
+.codeium/
+.tabnine/
+.copilot/
+.github/copilot/
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#                              IDE & EDITOR
+# ═══════════════════════════════════════════════════════════════════════════════
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#                              LOGS & DEBUG
+# ═══════════════════════════════════════════════════════════════════════════════
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#                              TESTING & COVERAGE
+# ═══════════════════════════════════════════════════════════════════════════════
+coverage/
+.nyc_output/
+*.lcov
+
+# ═══════════════════════════════════════════════════════════════════════════════
+#                              MISC
+# ═══════════════════════════════════════════════════════════════════════════════
+*.local
+.vercel
+.turbo
+.cache/
+.parcel-cache/
+.eslintcache
+*.tgz
+
+# Sécurité critique : Clés privées Endless
+.endless/
+**/contracts/.endless/
+contracts/.endless/
+contracts/.endless/config.yaml

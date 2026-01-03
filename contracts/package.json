@@ -1,0 +1,21 @@
+{
+  "name": "nexus-mock-contracts",
+  "version": "1.0.0",
+  "description": "Endless Nexus Smart Contract Deployment Scripts",
+  "main": "scripts/deploy.ts",
+  "scripts": {
+    "deploy": "npx ts-node scripts/deploy.ts",
+    "compile": "endless move compile",
+    "test": "endless move test",
+    "publish": "endless move publish --profile testnet --assume-yes"
+  },
+  "dependencies": {
+    "@endlesslab/endless-ts-sdk": "^1.0.6",
+    "clsx": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.0"
+  }
+}

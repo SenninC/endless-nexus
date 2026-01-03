@@ -1,0 +1,11 @@
+[package]
+name = "NexusMock"
+version = "1.0.0"
+authors = ["Endless Nexus Team"]
+
+[addresses]
+nexus_addr = "0x3bc5719c343fcc717043df3b59051398ec357d7768c2f9dc78c89cbd1672fa79"
+endless_framework = "0x1"
+
+[dependencies]
+EndlessFramework = { git = "https://github.com/endless-labs/endless-move-framework.git", subdir = "endless-framework", rev = "main" }
