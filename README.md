@@ -158,12 +158,6 @@ endless-nexus/
 - SDK integration examples
 - Copy-paste ready code snippets
 
-### 🎨 Cyberpunk UI/UX
-- Glassmorphism design system
-- Neon accent colors (Cyan, Purple, Green)
-- Responsive layout for all devices
-- Smooth animations and transitions
-
 ---
 
 ## <a name="installation"></a>Installation
