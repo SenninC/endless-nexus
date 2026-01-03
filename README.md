@@ -20,6 +20,8 @@
   <a href="#architecture">Architecture</a> •
   <a href="#installation">Installation</a> •
   <a href="#vision">Vision</a>
+  <a href="#ecosystem-impact">Ecosystem Impact</a>
+  <a href="#tech-stack">Tech Stack</a>
 </p>
 
 ---
@@ -62,7 +64,7 @@ The result? **The same on-chain transaction, zero technical knowledge required.*
 
 ---
 
-## 🏗️ Architecture
+## <a name="architecture"></a>Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -130,7 +132,7 @@ endless-nexus/
 
 ---
 
-## ✨ Features
+## <a name="features"></a>Features
 
 ### 🔐 Wallet Integration
 - **One-click connection** with Endless Wallet
@@ -164,7 +166,7 @@ endless-nexus/
 
 ---
 
-## 🚀 Installation
+## <a name="installation"></a>Installation
 
 ### Prerequisites
 
@@ -209,7 +211,7 @@ NEXT_PUBLIC_CONTRACT_ADDRESS=0x3bc5719c343fcc717043df3b59051398ec357d7768c2f9dc7
 
 ---
 
-## 🔮 Vision: The Future of Endless Nexus
+## <a name="vision"></a>Vision
 
 ### Phase 1: Foundation (Current)
 - ✅ Mock AI service integration
@@ -241,7 +243,7 @@ A visual tool to **chain multiple agents** together, creating complex workflows:
 
 ---
 
-## 🌍 Ecosystem Impact
+## <a name="ecosystem-impact"></a>Ecosystem Impact
 
 ### Why Endless Nexus Matters
 
@@ -267,7 +269,8 @@ A visual tool to **chain multiple agents** together, creating complex workflows:
 
 ---
 
-## 🛠️ Tech Stack
+## <a name="tech-stack"></a>Tech Stack
+
 
 | Layer | Technology |
 |-------|------------|
