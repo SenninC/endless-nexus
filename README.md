@@ -19,8 +19,8 @@
   <a href="#features">Features</a> •
   <a href="#architecture">Architecture</a> •
   <a href="#installation">Installation</a> •
-  <a href="#vision">Vision</a>
-  <a href="#ecosystem-impact">Ecosystem Impact</a>
+  <a href="#vision">Vision</a> •
+  <a href="#ecosystem-impact">Ecosystem Impact</a> •
   <a href="#tech-stack">Tech Stack</a>
 </p>
 
