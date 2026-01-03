@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/public/logo_endless_nexus.svg" alt="Endless Nexus Logo" width="1000" />
+  <img src="frontend/public/logo_endless_nexus.svg" alt="Endless Nexus Logo" width="800" />
 </p>
 
 <h1 align="center">Endless Nexus</h1>
@@ -27,10 +27,8 @@
 ## 🎬 Demo
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Endless Nexus Demo" width="800" />
+  <img src="frontend/public/demo.gif" alt="Endless Nexus Demo" width="800" />
 </p>
-
-> *Demo GIF coming soon*
 
 ---
 
