@@ -24,8 +24,6 @@
 
 ---
 
-## 🎬 Demo
-
 <p align="center">
   <img src="frontend/public/demo.gif" alt="Endless Nexus Demo" width="800" />
 </p>
