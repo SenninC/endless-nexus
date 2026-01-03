@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Menu, X, Zap } from "lucide-react";
+import { Menu, X, BrainCircuit } from "lucide-react";
 import { WalletConnectButton } from "@/components/wallet/WalletConnectButton";
 import { useEndlessWallet } from "@/context/EndlessWalletContext";
 
@@ -36,10 +36,10 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16 md:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            {/* Logo Icon - Lightning in Lime */}
+            {/* Logo Icon - Lightning in white */}
             <div className="relative">
               <div className="w-10 h-10 rounded-lg bg-gray-900 flex items-center justify-center group-hover:shadow-md transition-shadow duration-300">
-                <Zap className="w-6 h-6 text-endless-lime" />
+                <BrainCircuit className="w-6 h-6 text-white" />
               </div>
             </div>
             
