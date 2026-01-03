@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/public/logo_endless_nexus.svg" alt="Endless Nexus Logo" width="120" />
+  <img src="frontend/public/logo_endless_nexus.svg" alt="Endless Nexus Logo" width="1000" />
 </p>
 
 <h1 align="center">Endless Nexus</h1>
