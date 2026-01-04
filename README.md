@@ -28,7 +28,7 @@
 <div align="center">
   <h3>🎥 Video Demo</h3>
   <a href="https://youtu.be/ebsXrWZEjuE">
-    <img src="https://img.youtube.com/vi/ebsXrWZEjuE/maxresdefault.jpg" width="600" alt="Watch the Endless Nexus Demo">
+    <img src="https://img.youtube.com/vi/ebsXrWZEjuE/0.jpg" width="600" alt="Watch the complete Endless Nexus Demo">
   </a>
 </div>
 ---
